@@ -1,4 +1,4 @@
-# Projects
+# ToDoList with SQL, RESTAPI
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
