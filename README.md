@@ -3,7 +3,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 
 ## General Information
 The main purpose of this project is training C# syntax with Clean Code rules. Learning about projects layers, connecting with SQL data base, add RESTAPI.
